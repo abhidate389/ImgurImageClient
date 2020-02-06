@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImgurImageClient</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="search_Image">Search Image</string>
+    <string name="title_activity_image_detail">ImageDetailActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="search_view_text">Search for Image here</string>
+</resources>
